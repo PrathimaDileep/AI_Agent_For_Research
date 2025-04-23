@@ -1,0 +1,6 @@
+streamlit
+wikipedia
+arxiv
+transformers
+torch
+python-dotenv
